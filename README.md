@@ -1,4 +1,4 @@
-# crono
+# Crono: Simple cronometer script
 Cronometer for linux, watch your to do time
 
 ## run it with: 
