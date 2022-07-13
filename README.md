@@ -22,4 +22,6 @@ $ mv crono.py /usr/bin/crono.py
 > Restart terminal and use it :)
 
 
+https://github.com/yanlegon/crono/blob/master/imagen.png
+
 # Thank you :D
