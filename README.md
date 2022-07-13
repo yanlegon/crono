@@ -2,7 +2,7 @@
 Cronometer for linux, watch your to do time
 
 ## run it with: 
-```console
+```shell
 $ python3 crono.py
 ```
 ## Do not forget installing dependencies
@@ -12,11 +12,11 @@ I use this script this way:
 
 ```zsh
 function crono(){
-  python3 /usr/bin/crono.py
+  python3 /usr/bin/crono.py $1 $2
 }
 ```
 > After that just:
-```console
+```shell
 $ mv crono.py /usr/bin/crono.py
 ```
 > Restart terminal and use it :)
