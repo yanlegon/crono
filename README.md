@@ -22,4 +22,4 @@ $ mv crono.py /usr/bin/crono.py
 > Restart terminal and use it :)
 
 
-#Thank you :D
+# Thank you :D
