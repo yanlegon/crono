@@ -21,7 +21,7 @@ $ mv crono.py /usr/bin/crono.py
 ```
 > Restart terminal and use it :)
 
-
+You can see the script working here
 (https://raw.githubusercontent.com/yanlegon/crono/master/imagen.png)
 
 # Thank you :D
