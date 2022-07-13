@@ -68,4 +68,5 @@ def crono():
                 calculate_time(limit)
             elif sys.argv[2] == "-h":
                 limit = int(sys.argv[1])*(60**2)
-crono()
+if __name__ == "__main__":
+   crono()
