@@ -7,7 +7,7 @@ $ python3 crono.py
 ```
 ## Do not forget installing dependencies
 
-I use this script this way:
+I've used this script this way (You can do it if you want to):
 > I've create a function into .zshrc
 
 ```zsh
