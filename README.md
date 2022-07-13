@@ -5,4 +5,4 @@ Cronometer for linux, watch your to do time
 ```bash
 python3 crono.py
 ```
-###Do not forget installing dependencies
+## Do not forget installing dependencies
